@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_DependencyInjection", "WPF_DependencyInjection\WPF_DependencyInjection.csproj", "{7DF2248D-A0EE-4963-9FE2-32C5C0B5D7B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF2248D-A0EE-4963-9FE2-32C5C0B5D7B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF2248D-A0EE-4963-9FE2-32C5C0B5D7B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF2248D-A0EE-4963-9FE2-32C5C0B5D7B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF2248D-A0EE-4963-9FE2-32C5C0B5D7B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39548F73-D5AE-4AA3-A089-8FE7607EEAA7}
+	EndGlobalSection
+EndGlobal
