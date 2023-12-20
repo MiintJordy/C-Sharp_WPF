@@ -1,0 +1,15 @@
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\bin\Debug\WPF_ICommand.exe.config
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\bin\Debug\WPF_ICommand.exe
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\bin\Debug\WPF_ICommand.pdb
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\WPF_ICommand.csproj.AssemblyReference.cache
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\MainWindow.g.cs
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\App.g.cs
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\WPF_ICommand_MarkupCompile.cache
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\WPF_ICommand_MarkupCompile.lref
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\MainWindow.baml
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\WPF_ICommand.g.resources
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\WPF_ICommand.Properties.Resources.resources
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\WPF_ICommand.csproj.GenerateResource.cache
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\WPF_ICommand.csproj.CoreCompileInputs.cache
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\WPF_ICommand.exe
+D:\Git_Upload\WPF_ICommand\WPF_ICommand\obj\Debug\WPF_ICommand.pdb
