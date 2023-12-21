@@ -1,0 +1,15 @@
+D:\Git_Upload\WPF_Interface\WPF_Interface\bin\Debug\WPF_Interface.exe.config
+D:\Git_Upload\WPF_Interface\WPF_Interface\bin\Debug\WPF_Interface.exe
+D:\Git_Upload\WPF_Interface\WPF_Interface\bin\Debug\WPF_Interface.pdb
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\WPF_Interface.csproj.AssemblyReference.cache
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\MainWindow.g.cs
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\App.g.cs
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\WPF_Interface_MarkupCompile.cache
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\WPF_Interface_MarkupCompile.lref
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\MainWindow.baml
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\WPF_Interface.g.resources
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\WPF_Interface.Properties.Resources.resources
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\WPF_Interface.csproj.GenerateResource.cache
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\WPF_Interface.csproj.CoreCompileInputs.cache
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\WPF_Interface.exe
+D:\Git_Upload\WPF_Interface\WPF_Interface\obj\Debug\WPF_Interface.pdb
