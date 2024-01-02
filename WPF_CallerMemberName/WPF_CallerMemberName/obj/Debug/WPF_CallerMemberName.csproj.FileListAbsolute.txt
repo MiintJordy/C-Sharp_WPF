@@ -1,0 +1,15 @@
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\bin\Debug\WPF_CallerMemberName.exe.config
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\bin\Debug\WPF_CallerMemberName.exe
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\bin\Debug\WPF_CallerMemberName.pdb
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\WPF_CallerMemberName.csproj.AssemblyReference.cache
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\MainWindow.g.cs
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\App.g.cs
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\WPF_CallerMemberName_MarkupCompile.cache
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\WPF_CallerMemberName_MarkupCompile.lref
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\MainWindow.baml
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\WPF_CallerMemberName.g.resources
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\WPF_CallerMemberName.Properties.Resources.resources
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\WPF_CallerMemberName.csproj.GenerateResource.cache
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\WPF_CallerMemberName.csproj.CoreCompileInputs.cache
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\WPF_CallerMemberName.exe
+D:\Git_Upload\WPF_CallerMemberName\WPF_CallerMemberName\obj\Debug\WPF_CallerMemberName.pdb
