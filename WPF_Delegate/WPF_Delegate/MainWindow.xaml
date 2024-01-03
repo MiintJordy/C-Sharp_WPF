@@ -1,0 +1,16 @@
+﻿<Window x:Class="WPF_Delegate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Delegate"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Command="{Binding Btn_Action}" Content="Action" HorizontalAlignment="Left" Margin="554,161,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Command="{Binding Btn_Func}" Content="Func" HorizontalAlignment="Left" Margin="554,221,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Command="{Binding Btn_Delegate}" Content="Delegate" HorizontalAlignment="Left" Margin="554,281,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Command="{Binding Btn_Predicate}" Content="Predicate" HorizontalAlignment="Left" Margin="554,336,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="-0.037,0.743"/>
+
+    </Grid>
+</Window>
