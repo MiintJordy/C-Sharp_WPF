@@ -1,0 +1,15 @@
+D:\Git_Upload\BeforeStart2\BeforeStart2\bin\Debug\BeforeStart2.exe.config
+D:\Git_Upload\BeforeStart2\BeforeStart2\bin\Debug\BeforeStart2.exe
+D:\Git_Upload\BeforeStart2\BeforeStart2\bin\Debug\BeforeStart2.pdb
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\BeforeStart2.csproj.AssemblyReference.cache
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\MainWindow.g.cs
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\App.g.cs
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\BeforeStart2_MarkupCompile.cache
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\BeforeStart2_MarkupCompile.lref
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\MainWindow.baml
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\BeforeStart2.g.resources
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\BeforeStart2.Properties.Resources.resources
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\BeforeStart2.csproj.GenerateResource.cache
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\BeforeStart2.csproj.CoreCompileInputs.cache
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\BeforeStart2.exe
+D:\Git_Upload\BeforeStart2\BeforeStart2\obj\Debug\BeforeStart2.pdb
